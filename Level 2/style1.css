@@ -1,0 +1,174 @@
+.nav {
+    display: flex;
+    height: 80px;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    color: white;
+
+}
+body{
+    background-color:seagreen ;
+}
+ul {
+    list-style: none;
+    display: flex;
+    margin-right: 176px;
+}
+
+h1 {
+    margin-left: 61px;
+    font-size: 36px;
+}
+
+ul li {
+    padding: 32px;
+    font-size: 25px;
+}
+
+.devPic img {
+
+    height: 45vh;
+    margin-top: 54px;
+    margin-left: 665px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.hi {
+    text-align: center;
+
+}
+
+.buttons {
+    margin-left: 810px;
+}
+
+.btn {
+    background-color: black;
+    color: white;
+    height: 45px;
+    border-radius: 10%;
+    border-width: 2px;
+   
+
+}
+
+.gg {
+    margin-left: 1000px;
+}
+
+.btns {
+    height: 33px;
+    margin-top: 31px;
+    width: 111px;
+}
+
+.box {
+    border: 2px solid black;
+    border-radius: 10px;
+    width: calc(33.33% - 40px); /* Adjust width as needed */
+    padding: 20px;
+    margin: 20px;
+    box-sizing: border-box; /* Include padding and border in the width */
+    float: left;
+}
+
+.container {
+    clear: both;
+    overflow: hidden;
+}
+
+
+.bt:hover{
+    color: rgb(177, 166, 166);
+}
+
+.ss {
+    display: flex;
+    justify-content: center;
+}
+h2{
+    align-items: center;
+}
+p{
+    align-items: center;
+    margin-left: 51px;
+    
+}
+/* .h2{
+    margin-left: 88px;
+} */
+.bt{
+    margin-left: 60px;
+    background-color: black;
+    color: white;
+    border-radius: 10%;
+    width: 100px;
+    height: 38px;
+}
+.rr{
+    margin-left: 435px;
+    margin-top: 55px;
+    height: 166px;
+    margin-bottom: 71px;
+}
+.hh{
+    
+    padding: 19px 79px;
+}
+.nik{
+    margin-left: 770px;
+    padding-top: 125px;
+}
+.plan{
+    margin-left: 300px;
+    margin-top: 193px;
+}
+.btn:hover{
+    color: rgb(177, 166, 166);
+}
+.home{
+    color: white;
+}
+.contactform {
+    padding: 0px 34px;
+    padding-top: 144px;
+    font-family: 'Fira Sans',sans-serif; 
+    margin: 0px 90px;
+    margin: 4px 318px;
+
+}
+.contactform h1 {
+    font-family: 'Source Code Pro', monospace;
+    padding: 0px 18px;
+
+}
+.contactform form div{
+    padding: 10px 0px;
+    display: flex;
+    flex-direction: column;
+}
+.contactform form div input{
+    width: 26vw;
+    border-radius: 5px;
+    margin: 6px 0px 0px 0px;
+    padding: 9px;
+}
+#emailHelp{
+    font-size: 11px;
+    color: midnightblue;
+    margin: 0px 5px;
+    padding: 3px 0px 0px 0px;
+
+}
+#form-check{
+    flex-direction: row;
+
+}
+#form-check input{
+    width: 24px;
+    margin: 3px 0px;
+}
